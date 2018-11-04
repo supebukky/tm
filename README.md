@@ -1,1 +1,1 @@
-# Program for solving ⓦave equation
+# Program for solving ave equation
