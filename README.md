@@ -1,1 +1,1 @@
-# Program for solving one-dimentional wave equation
+# Program for solving ⓦave equation
